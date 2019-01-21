@@ -12,7 +12,6 @@ func main() {
 	
 	fmt.Println("Hello, world")
 
-	
 	// Harcoded credentials
 
 	username := "admin"
