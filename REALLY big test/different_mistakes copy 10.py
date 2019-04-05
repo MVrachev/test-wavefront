@@ -5,7 +5,7 @@ def someFunction(user, password="Admin"):
 
 def someFunction2(password):
     if password == "root":
-        print("OK, logged in")
+        print("OK, logged in   ")
 
 def noMatch(password):
     if password == '':
